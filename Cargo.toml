@@ -6,3 +6,4 @@ description = "Un outil CLI ultra-rapide pour compresser et nettoyer des PDF"
 
 [dependencies]
 clap = { version = "4.4", features = ["derive"] }
+lopdf = "0.43.0"
